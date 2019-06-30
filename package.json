@@ -1,0 +1,21 @@
+{
+  "name": "react-scroll-listener",
+  "version": "0.0.1",
+  "description": "easy way register scroll listener for React.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:paulhuang1102/react-scroll-listener.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Paul Huang",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
